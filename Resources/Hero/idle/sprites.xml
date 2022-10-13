@@ -1,0 +1,13 @@
+<TextureAtlas imagePath="sprites.png">
+	<SubTexture name="Run_1.png" x="0" y="199" width="47" height="47"/>
+	<SubTexture name="Run_2.png" x="0" y="50" width="47" height="48"/>
+	<SubTexture name="Run_3.png" x="0" y="149" width="47" height="48"/>
+	<SubTexture name="Run_4.png" x="0" y="0" width="47" height="48"/>
+	<SubTexture name="Run_5.png" x="49" y="50" width="46" height="48"/>
+	<SubTexture name="Run_6.png" x="0" y="100" width="47" height="47"/>
+	<SubTexture name="Run_7.png" x="49" y="0" width="46" height="48"/>
+	<SubTexture name="idle-0.png" x="49" y="100" width="37" height="52"/>
+	<SubTexture name="idle-1.png" x="49" y="154" width="37" height="51"/>
+	<SubTexture name="idle-2.png" x="88" y="153" width="37" height="52"/>
+	<SubTexture name="idle-3.png" x="88" y="100" width="37" height="51"/>
+</TextureAtlas>
